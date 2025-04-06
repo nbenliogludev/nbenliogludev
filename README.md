@@ -3,8 +3,6 @@
 
 I'm Nikolay Benlioglu, a Backend Developer with experience in Java. I'm currently learning how to develop scalable applications and implement microservice architectures, focusing on efficiency and performance. Additionally, I actively contribute to open-source projects, such as Elasticsearch, and have hands-on experience with frontend technologies like React, TypeScript, Redux, and Zustand. I’m currently learning Java, Spring Boot, JPA, and Hibernate through the Patika Backend Web Developer Bootcamp.
 
-**Currently a Mathematics student at Pamukkale University!**
-
 ### Badges:
 
 [![Elasticsearch Badge](https://img.shields.io/badge/Elasticsearch-Contributor-brightgreen)](https://github.com/elastic/elasticsearch/commits?author=nbenliogludev)
